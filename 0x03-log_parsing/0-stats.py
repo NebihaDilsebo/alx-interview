@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
-"""
-log parsing
-"""
+
 import sys
 import re
+
 
 # Initialize variables to store metrics
 total_file_size = 0
